@@ -103,7 +103,7 @@ No other research apart from searching for syntax of the random number generatio
 ##### Burndown Chart
 
 ![enter image description here](https://i.imgur.com/6M7Eke9.jpg)
-This chart shows that I finished the project ahead of schedule.
+This chart shows that the project was completed ahead of schedule
 
 ##### User Stories Tracking Chart (Which Stories Have Been Completed)
 ![enter image description here](https://i.imgur.com/jq1cDwY.jpg)
