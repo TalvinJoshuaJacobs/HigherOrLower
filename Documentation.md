@@ -49,6 +49,9 @@ A command-line guessing game.
 
 The program was coded on an online IDE - https://repl.it/. It compiles and executes a single piece of code in seconds, which was perfectly suitable for the project.
 
+![
+](https://i.imgur.com/LCkQzNx.jpg)
+
 ##### Programming Language/Environment
 
 C++ was the language used
