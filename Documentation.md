@@ -90,12 +90,10 @@ If the user types "y" for yes when prompted to play again, the game will restart
 
 ##### Coding Standards
 
-The following coding standards were adhered to when completing the code:
-
- - Using camelCase for variable and function names
- - The variable names and cases are consistent
- - The code is readable
- - The spacing, indentation, comments and brackets are consistent
+ - *For variables:* The comments begin a single tab-space after the last letter of the line that defines the variable. They comments themselves are brief, simple sentences which outline what the variable is eg. `Gamer.x = 1000; // The x co-ordinate of the player's starting position` 
+ - *For the introduction:* The introduction is written in full English sentences that make grammatical sense. Sentence example: `// TraceBall (EscapeTheEnemyBox) is a 2D browser game coded in Javascript.`
+ - *For functions:* As with variables, the comments begin a single tab-space after the last letter of the line that defines the function. These comments are also brief and the sentences are not in full. Example: `// A "Restart Game" function.`
+ - *For "chunks of code":* A comment is made one line before the chunk of code, and one line gap further from the previous chunk (which may end with a closed curly parenthesis or a semicolon). The sentence explaining the chunk of code will be of more detail than a short sentence that describes a function or variable, but of slightly less detail than the introduction. Example: `// Defining the mathematical variables`
 
 ### V. Research
 
