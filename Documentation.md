@@ -34,7 +34,6 @@ The user is then prompted with a question asking them if they would like to play
  - "As a player, I would like to have a motive, such as a score which is displayed, correlating to the number of guesses I have made correctly"
  - "As a player, I would like to be greeted with the name of the game at the beginning"
 
-
 ##### How We Addressed The Requirements
 
 A plan was devised so that all the functional requirements would be completed with the highest priority, followed by the non-functional requirements.
@@ -55,6 +54,18 @@ The program was coded on an online IDE - https://repl.it/. It compiles and execu
 ##### Programming Language/Environment
 
 C++ was the language used
+
+##### How the use of an IDE managed the development process of "Higher or Lower"
+
+repl.it turned out to be extremely advantageous when used over a default non-IDE text editor like Notepad.
+
+The syntax highlighting was useful for ensuring the code being written was consistent. No spelling errors or mistypes were discovered after the code was complete, but only a few seconds after making them. This greatly sped up the process of writing the code, hence more time was spent on sections that held a greater portion of significance.
+
+Having an online IDE like repl.it meant that testing out the code was more efficient than if a standard non-IDE text editor was used. If the latter was used, a separate compiler had to be used which takes time, leaving less time other, possibly more important parts. For example, time was more efficiently spent coding the function responsible for providing the user with feedback on their chosen input because the IDE was used to code it.
+
+The process of debugging was made shorter by using the automatic compiler and command line output provided by repl.it. Many errors popped up as a result of adding new functions to the game, for example, adding a restart game function. After learning about the `goto` function, experimentation was conducted on its usage in the code, and a solution was swiftly arrived at.
+
+repl.it was purely used for everything apart from saving the code, which was instead saved locally on a notepad document, for copying and pasting.
 
 ##### Programming Challenges
 
